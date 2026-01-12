@@ -13,7 +13,7 @@ Journal of Rubbish是面向普通科研工作者接稿的期刊。
 
 Journal of Rubbish is a journal that accepts submissions from general scientific researchers.
 
-接稿要求：工作结果烂的足够搞笑
+接稿要求：工作结果烂的足够搞笑。
 
 Submission requirement: the research results must be bad enough to be genuinely funny.
 
