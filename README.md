@@ -1,6 +1,6 @@
 # OEF_JRCursor
 
-
+(JR.png)
 JRCursor是oef出版社旗下第一类期刊Journal of Rubbish的配套鼠标指针。
 
 JRCursor is the official mouse cursor set of Journal of Rubbish, a first-category journal published by OEF Press.
