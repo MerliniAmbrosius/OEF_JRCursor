@@ -1,6 +1,7 @@
 # OEF_JRCursor
 
-(JR.png)
+![JRCursor Preview](https://raw.githubusercontent.com/MerliniAmbrosius/OEF_JRCursor/main/JR.jpg)
+
 
 JRCursor是oef出版社旗下第一类期刊Journal of Rubbish的配套鼠标指针。
 
