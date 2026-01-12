@@ -18,3 +18,5 @@ Journal of Rubbish is a journal that accepts submissions from general scientific
 Submission requirement: the research results must be bad enough to be genuinely funny.
 
 ![JRCursor Preview](https://raw.githubusercontent.com/MerliniAmbrosius/OEF_JRCursor/main/JR.jpg)
+
+安装完成后可以在个性化-鼠标指针里确认是否配对成功
