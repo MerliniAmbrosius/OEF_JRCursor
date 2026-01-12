@@ -1,6 +1,6 @@
 # OEF_JRCursor
 
-![JRCursor Preview](https://raw.githubusercontent.com/MerliniAmbrosius/OEF_JRCursor/main/JR.jpg)
+
 
 
 JRCursor是oef出版社旗下第一类期刊Journal of Rubbish的配套鼠标指针。
@@ -14,3 +14,5 @@ Journal of Rubbish is a journal that accepts submissions from general scientific
 接稿要求：工作结果烂的足够搞笑
 
 Submission requirement: the research results must be bad enough to be genuinely funny.
+
+![JRCursor Preview](https://raw.githubusercontent.com/MerliniAmbrosius/OEF_JRCursor/main/JR.jpg)
