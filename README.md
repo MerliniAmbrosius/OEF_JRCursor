@@ -19,4 +19,6 @@ Submission requirement: the research results must be bad enough to be genuinely 
 
 ![JRCursor Preview](https://raw.githubusercontent.com/MerliniAmbrosius/OEF_JRCursor/main/JR.jpg)
 
+![OEF Logo](InstallationGuide.png)
+
 安装完成后可以在个性化-鼠标指针里确认是否配对成功
